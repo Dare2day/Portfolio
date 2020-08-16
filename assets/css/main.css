@@ -2912,6 +2912,7 @@ input, select, textarea {
 
 				#intro p.style1 {
 					margin-bottom: 1.5em;
+					padding: 2em 2em 0em 0em;
 				}
 
 				#intro p.style2 {
@@ -2935,7 +2936,7 @@ input, select, textarea {
 		/* Content */
 
 			#content {
-				padding: 4em 4em 2em 2em;
+				padding: 0 0 2em 0;
 			}
 
 				#content header.style1 {
